@@ -4,8 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="USut6fKwZreLoNnX3Hr3-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="60" height="90" as="geometry" />
+        <mxCell id="USut6fKwZreLoNnX3Hr3-1" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="383" y="320" width="74" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="USut6fKwZreLoNnX3Hr3-3" value="посмотреть фильм" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="USut6fKwZreLoNnX3Hr3-4" value="выбрать фильм" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="USut6fKwZreLoNnX3Hr3-5" value="выбрать жанр фильма или сериала" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="USut6fKwZreLoNnX3Hr3-6" value="зарегистроваться" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="USut6fKwZreLoNnX3Hr3-7" value="обратиться в службу поддержки" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="USut6fKwZreLoNnX3Hr3-8" value="оценить фильм" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="USut6fKwZreLoNnX3Hr3-9" value="добавить фильм в избранное" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="USut6fKwZreLoNnX3Hr3-11" value="купить подписку" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
